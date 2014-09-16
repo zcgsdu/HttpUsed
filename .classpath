@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/jsoup/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/httpclient/org.json-20120521.jar" sourcepath="E:/lib/json/JSON/org.json-source.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
